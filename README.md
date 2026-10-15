@@ -1,7 +1,27 @@
-# Dope AI
+<h1 align="center">Dope AI</h1>
 
-Your daily briefing from the AI world, on Android: model releases, agent tooling,
-trending developer skills, and a daily digest. Refreshed every hour.
+<p align="center"><b>Stay current on AI in two minutes a day.</b><br>
+Model releases, agent tooling, the developer skills blowing up on GitHub, and one daily digest. Refreshed every hour.</p>
+
+<p align="center">
+  <a href="https://github.com/Dor-Sloim/dope-ai-app/releases/latest/download/dope-ai.apk"><b>⬇ Download for Android</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Dor-Sloim/dope-ai-app/releases">What's new</a>
+</p>
+
+<p align="center">
+  <img src="screenshots/news.png" width="260" alt="News feed with Model Radar">
+  <img src="screenshots/skills.png" width="260" alt="Trending developer skills">
+  <img src="screenshots/models.png" width="260" alt="Model Radar: new models with context and pricing">
+</p>
+
+## Why you'll like it
+
+- **News that matters, ranked.** 20+ sources (AI labs, Hacker News, TechCrunch, The Verge and more), deduplicated, with the big stories on top.
+- **Model Radar.** Every new model the moment it shows up, with context size and price.
+- **Skills to learn today.** The repos developers are starring fastest right now, with a copy-ready install command.
+- **Push alerts, only for the big ones.** Breaking stories and repos exploding on GitHub, never at night.
+- **Read without leaving.** Articles open inside the app. Save anything for later.
 
 ## Install
 
