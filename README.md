@@ -17,7 +17,7 @@ Requires Android 8.0 or newer.
 When a new version is out, the app tells you what changed and shows an **Update** button.
 Tap it, then tap **Update** in the Android installer. Your saved items and settings stay.
 
-The first time, Android asks you to allow Dope AI to install apps. Allow it once.
+The first time only, Android asks you to allow Dope AI to install apps. Allow it, go back, and tap **Update** again.
 
 Every version and what changed in it: [Releases](https://github.com/Dor-Sloim/dope-ai-app/releases).
 
