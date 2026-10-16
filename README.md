@@ -43,7 +43,8 @@ Every version and what changed in it: [Releases](https://github.com/Dor-Sloim/do
 
 ## Privacy
 
-No account and no analytics. Saved items stay on your phone.
+No account and no third-party analytics. Saved items stay on your phone.
+To count installs, the app sends a random ID it creates on first start, plus its version and language. The ID is not linked to you, your phone or your Google account.
 Notifications are delivered through Firebase Cloud Messaging.
 
 This repository holds release builds only.
